@@ -1,0 +1,13 @@
+{
+    "addons": {
+        "lotus@magdyismail88.github.io": {
+            "updates": [
+                {
+                    "version": "1.0.1",
+                    "update_link": "https://magdyismail88.github.io/lotus/lotus-1.0.1.xpi",
+                    "hash": "sha256:1b204854c057ca8587b5935a1214adea35f9db10a42441529c4296e3c23349d6"
+                }
+            ]
+        }
+    }
+}
